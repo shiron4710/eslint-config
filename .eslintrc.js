@@ -4,13 +4,26 @@ module.exports = {
     es2021: true,
     node: true
   },
-  extends: 'standard-with-typescript',
+  parser: "@typescript-eslint/parser",
+  extends: [
+    "standard-with-typescript",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:import/recommended",
+    "plugin:import/typescript"
+  ],
+  plugins: ["unused-imports"],
   overrides: [
   ],
   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module'
+    ecmaVersion: "latest",
+    sourceType: "module"
   },
   rules: {
+    quotes: ["error", "double"],
+    eqeqeq: "error",
+    "handle-callback-err": "warn",
+    "eol-last": ["error", "always"],
+    "@typescript-eslint/no-unused-vars": "off",
+    "unused-imports/no-unused-imports-ts": "warn"
   }
 }
