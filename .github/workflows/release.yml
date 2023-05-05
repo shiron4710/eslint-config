@@ -40,7 +40,6 @@ jobs:
           cache: "pnpm"
       - name: Install package
         run: pnpm install --frozen-lockfile
-      - run:
       - name: Publish to npm
         run: |
           pnpm config set //registry.npmjs.org/:_authToken ${{ secrets.NPM_TOKEN }}
