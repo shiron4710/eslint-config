@@ -3,5 +3,5 @@ module.exports = {
     "jest/globals": true,
     node: true
   },
-  extends: ["plugin:jest/recommended"]
+  extends: [require.resolve("./index.js"), "plugin:jest/recommended"]
 }

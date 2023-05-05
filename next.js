@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["plugin:@next/next/core-web-vitals"]
+  extends: [require.resolve("./index.js"), "plugin:@next/next/core-web-vitals"]
 }
