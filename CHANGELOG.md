@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.0.1](https://github.com/shiron4710/eslint-config/compare/v1.0.0...v1.0.1) (2023-05-05)
+
+
+### Features
+
+* add README.md ([ae83e0e](https://github.com/shiron4710/eslint-config/commit/ae83e0eb4735712e06125901efa7309b8c208607))
+
+
+### Bug Fixes
+
+* release action ([8bdb6a6](https://github.com/shiron4710/eslint-config/commit/8bdb6a697b8d194bbbd50a4379a737a08202b140))
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([dde4310](https://github.com/shiron4710/eslint-config/commit/dde4310261d8d639233d344e07d523a8cf04b9d6))
+
 ## 1.0.0 (2023-05-05)
 
 
