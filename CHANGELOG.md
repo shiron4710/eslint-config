@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/shiron4710/eslint-config/compare/v1.0.2...v1.0.3) (2023-05-05)
+
+
+### Bug Fixes
+
+* dependencies ([32aa0ea](https://github.com/shiron4710/eslint-config/commit/32aa0ea2d114bf9215be68928167afa38698759b))
+* README.md ([73c2cfb](https://github.com/shiron4710/eslint-config/commit/73c2cfb004843eef6f01627a644d79590e596092))
+
 ## [1.0.2](https://github.com/shiron4710/eslint-config/compare/v1.0.1...v1.0.2) (2023-05-05)
 
 
