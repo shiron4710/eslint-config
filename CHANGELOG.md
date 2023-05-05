@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/shiron4710/eslint-config/compare/v1.0.1...v1.0.2) (2023-05-05)
+
+
+### Bug Fixes
+
+* package name ([d49fcbc](https://github.com/shiron4710/eslint-config/commit/d49fcbc3e7aa33b0666fb8dcedc3c4ed137b0130))
+
 ## [1.0.1](https://github.com/shiron4710/eslint-config/compare/v1.0.0...v1.0.1) (2023-05-05)
 
 
