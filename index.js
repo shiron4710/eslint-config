@@ -18,6 +18,11 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module"
   },
+  settings: {
+    "import/resolver": {
+      typescript: {}
+    }
+  },
   rules: {
     quotes: ["error", "double"],
     eqeqeq: "error",
