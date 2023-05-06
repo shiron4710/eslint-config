@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.0.4](https://github.com/shiron4710/eslint-config/compare/v1.0.3...v1.0.4) (2023-05-06)
+
+
+### Features
+
+* auto extends core ([2f0a473](https://github.com/shiron4710/eslint-config/commit/2f0a4737479d6aeca52b552d17f41bb33feee003))
+
+
+### Bug Fixes
+
+* quotes rule in next ([2093ade](https://github.com/shiron4710/eslint-config/commit/2093ade09af4409945ebfb122be0edffc3878942))
+
+
+### Miscellaneous Chores
+
+* release 1.0.4 ([1c4a7cd](https://github.com/shiron4710/eslint-config/commit/1c4a7cd936897e502375cf9832aa5b4727b18764))
+
 ## [1.0.3](https://github.com/shiron4710/eslint-config/compare/v1.0.2...v1.0.3) (2023-05-05)
 
 
