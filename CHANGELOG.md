@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/shiron4710/eslint-config/compare/v1.0.4...v1.0.5) (2023-05-06)
+
+
+### Bug Fixes
+
+* for alias ([3892fb1](https://github.com/shiron4710/eslint-config/commit/3892fb1889afc848187a7a4d3d7075af911b7e11))
+
 ## [1.0.4](https://github.com/shiron4710/eslint-config/compare/v1.0.3...v1.0.4) (2023-05-06)
 
 
