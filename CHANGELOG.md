@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/shiron4710/eslint-config/compare/v1.0.5...v1.1.0) (2023-05-13)
+
+
+### Features
+
+* add storybook ([2f39870](https://github.com/shiron4710/eslint-config/commit/2f3987013a47ce4b87a8eb46dea9f81eb9fe5d4d))
+
 ## [1.0.5](https://github.com/shiron4710/eslint-config/compare/v1.0.4...v1.0.5) (2023-05-06)
 
 
