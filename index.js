@@ -2,26 +2,25 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
   },
   parser: "@typescript-eslint/parser",
   extends: [
     "standard-with-typescript",
     "plugin:@typescript-eslint/recommended",
     "plugin:import/recommended",
-    "plugin:import/typescript"
+    "plugin:import/typescript",
   ],
   plugins: ["unused-imports"],
-  overrides: [
-  ],
+  overrides: [],
   parserOptions: {
     ecmaVersion: "latest",
-    sourceType: "module"
+    sourceType: "module",
   },
   settings: {
     "import/resolver": {
-      typescript: {}
-    }
+      typescript: {},
+    },
   },
   rules: {
     quotes: ["error", "double"],
@@ -30,6 +29,6 @@ module.exports = {
     "eol-last": ["error", "always"],
     "@typescript-eslint/no-unused-vars": "off",
     "unused-imports/no-unused-imports-ts": "warn",
-    "@typescript-eslint/quotes": ["error", "double"]
-  }
-}
+    "@typescript-eslint/quotes": ["error", "double"],
+  },
+};
