@@ -29,6 +29,7 @@ module.exports = {
     "handle-callback-err": "warn",
     "eol-last": ["error", "always"],
     "@typescript-eslint/no-unused-vars": "off",
-    "unused-imports/no-unused-imports-ts": "warn"
+    "unused-imports/no-unused-imports-ts": "warn",
+    "@typescript-eslint/quotes": ["error", "double"]
   }
 }
