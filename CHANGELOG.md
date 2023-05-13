@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/shiron4710/eslint-config/compare/v1.1.0...v1.2.0) (2023-05-13)
+
+
+### Features
+
+* add prettier ([66e4131](https://github.com/shiron4710/eslint-config/commit/66e413146d1ab54e42bb4a087bb72a63914f47aa))
+
 ## [1.1.0](https://github.com/shiron4710/eslint-config/compare/v1.0.5...v1.1.0) (2023-05-13)
 
 
