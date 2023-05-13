@@ -1,12 +1,6 @@
 module.exports = {
-  extends: [
-    "plugin:react/recommended"
-  ],
-  overrides: [
-  ],
-  plugins: [
-    "react"
-  ],
-  rules: {
-  }
-}
+  extends: ["plugin:react/recommended"],
+  overrides: [],
+  plugins: ["react"],
+  rules: {},
+};
