@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/shiron4710/eslint-config/compare/v1.2.0...v1.2.1) (2023-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-n to v16 ([b892fa2](https://github.com/shiron4710/eslint-config/commit/b892fa2aa5e60b75e6e05a690dcd6840c5491ce2))
+* some rules ([c2071ce](https://github.com/shiron4710/eslint-config/commit/c2071ce64919f8dceac0ac753530e75c28ba38be))
+
 ## [1.2.0](https://github.com/shiron4710/eslint-config/compare/v1.1.0...v1.2.0) (2023-05-13)
 
 
