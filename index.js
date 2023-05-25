@@ -30,5 +30,7 @@ module.exports = {
     "@typescript-eslint/no-unused-vars": "off",
     "unused-imports/no-unused-imports-ts": "warn",
     "@typescript-eslint/quotes": ["error", "double"],
+    "comma-dangle": ["error", "always-multiline"],
+    semi: ["error", "always"],
   },
 };
