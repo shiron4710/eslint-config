@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/shiron4710/eslint-config/compare/v1.2.1...v1.3.0) (2023-06-11)
+
+
+### Features
+
+* add Tailwind CSS ([876480c](https://github.com/shiron4710/eslint-config/commit/876480cbc23921a4072674e88be8e4f7e88604ca))
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard-with-typescript to v35 ([8885a82](https://github.com/shiron4710/eslint-config/commit/8885a821f66daed9398a5e806f8417bc9f8fba53))
+
 ## [1.2.1](https://github.com/shiron4710/eslint-config/compare/v1.2.0...v1.2.1) (2023-05-25)
 
 
