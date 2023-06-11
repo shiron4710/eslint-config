@@ -1,4 +1,4 @@
 module.exports = {
-  extends: [require.resolve("./index.js"), "plugin:tailwindcss/recommended"],
+  extends: ["plugin:tailwindcss/recommended"],
   plugins: ["tailwindcss"],
 };
