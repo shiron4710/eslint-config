@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/shiron4710/eslint-config/compare/v1.3.0...v1.3.1) (2023-06-11)
+
+
+### Bug Fixes
+
+* eslint-plugin-tailwind ([f0aed2d](https://github.com/shiron4710/eslint-config/commit/f0aed2d98aafcc02396b256ac2d0c4169f28c903))
+
 ## [1.3.0](https://github.com/shiron4710/eslint-config/compare/v1.2.1...v1.3.0) (2023-06-11)
 
 
