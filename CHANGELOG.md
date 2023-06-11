@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/shiron4710/eslint-config/compare/v1.3.2...v1.3.3) (2023-06-11)
+
+
+### Bug Fixes
+
+* Tailwind CSS rule ([a3db095](https://github.com/shiron4710/eslint-config/commit/a3db095da6fbfd7df23d1ab1a85bef19d0b3caae))
+
 ## [1.3.2](https://github.com/shiron4710/eslint-config/compare/v1.3.1...v1.3.2) (2023-06-11)
 
 
