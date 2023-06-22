@@ -21,8 +21,8 @@ dependencies:
     specifier: ^2.27.5
     version: 2.27.5(@typescript-eslint/parser@5.59.7)(eslint-import-resolver-typescript@3.5.5)(eslint@8.41.0)
   eslint-plugin-jest:
-    specifier: ^27.2.1
-    version: 27.2.1(@typescript-eslint/eslint-plugin@5.59.11)(eslint@8.41.0)(typescript@5.0.4)
+    specifier: ^27.2.2
+    version: 27.2.2(@typescript-eslint/eslint-plugin@5.59.11)(eslint@8.41.0)(typescript@5.0.4)
   eslint-plugin-n:
     specifier: ^16.0.0
     version: 16.0.0(eslint@8.41.0)
@@ -916,8 +916,8 @@ packages:
       - supports-color
     dev: false
 
-  /eslint-plugin-jest@27.2.1(@typescript-eslint/eslint-plugin@5.59.11)(eslint@8.41.0)(typescript@5.0.4):
-    resolution: {integrity: sha512-l067Uxx7ZT8cO9NJuf+eJHvt6bqJyz2Z29wykyEdz/OtmcELQl2MQGQLX8J94O1cSJWAwUSEvCjwjA7KEK3Hmg==}
+  /eslint-plugin-jest@27.2.2(@typescript-eslint/eslint-plugin@5.59.11)(eslint@8.41.0)(typescript@5.0.4):
+    resolution: {integrity: sha512-euzbp06F934Z7UDl5ZUaRPLAc9MKjh0rMPERrHT7UhlCEwgb25kBj37TvMgWeHZVkR5I9CayswrpoaqZU1RImw==}
     engines: {node: ^14.15.0 || ^16.10.0 || >=18.0.0}
     peerDependencies:
       '@typescript-eslint/eslint-plugin': ^5.0.0
@@ -930,7 +930,7 @@ packages:
         optional: true
     dependencies:
       '@typescript-eslint/eslint-plugin': 5.59.11(@typescript-eslint/parser@5.59.7)(eslint@8.41.0)(typescript@5.0.4)
-      '@typescript-eslint/utils': 5.59.7(eslint@8.41.0)(typescript@5.0.4)
+      '@typescript-eslint/utils': 5.59.11(eslint@8.41.0)(typescript@5.0.4)
       eslint: 8.41.0
     transitivePeerDependencies:
       - supports-color
