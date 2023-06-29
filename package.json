@@ -10,7 +10,7 @@
   "author": "shiron4710",
   "license": "MIT",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard-with-typescript": "^35.0.0",
     "eslint-import-resolver-typescript": "^3.5.5",
